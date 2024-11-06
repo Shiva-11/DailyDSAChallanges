@@ -1,4 +1,5 @@
-# DailyDSAChallanges # 📘 10-Month Data Structures and Algorithms Roadmap
+# DailyDSAChallanges
+# 📘 10-Month Data Structures and Algorithms Roadmap
 
 This roadmap is designed for a **10-month** journey, dedicating **one hour daily** to mastering **Data Structures and Algorithms (DSA)**. With a focus on top problems frequently asked in MNCs (e.g., Google, Amazon, Microsoft), this plan will help you build a strong foundation and prepare for coding interviews.
 
